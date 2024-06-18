@@ -1,4 +1,4 @@
-<h1><img src="title.png"></h1>
+<h1><img src="title1.png"></h1>
 
 <h1>Authors</h1>
 Paula Martinez, Jeremiah Soliman
